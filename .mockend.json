@@ -1,11 +1,4 @@
 {
-  "Post": {
-    "title": "string",
-    "views": "int",
-    "published": "boolean",
-    "createdAt": "date",
-    "comments": "Comment[]"
-  },
   "Employee":{
     "empId":"int",
     "name":"string",
