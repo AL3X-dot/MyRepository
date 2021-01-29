@@ -6,7 +6,7 @@
     "createdAt": "date",
     "comments": "Comment[]"
   },
-  "Employees":{
+  "Employee":{
     "empId":"int",
     "name":"string",
     "city":"string",
