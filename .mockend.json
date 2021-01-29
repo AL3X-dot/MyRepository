@@ -5,5 +5,11 @@
     "published": "boolean",
     "createdAt": "date",
     "comments": "Comment[]"
+  },
+  "Employees":{
+    "empId":"int",
+    "name":"string",
+    "city":"string",
+    "salary":"int",
   }
 }
